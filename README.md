@@ -1,4 +1,5 @@
- <h1 align="left">🙏Namaste, myself NAVNEET KUMAR  </h1>            
+<h1 align="left">🙏Namaste, myself NAVNEET KUMAR  </h1>  
+<div style = "display:flex">          
  <img align="left" width="180" height="180" src="https://c.tenor.com/eYRNL1In-ooAAAAM/namaste-covid.gif">
 
  <h3>
@@ -16,6 +17,8 @@
    [<img alt="alt_text" height="20px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/800px-Instagram_logo_2016.svg.png" target="_blank"/>](https://www.instagram.com/its_navneet08/)
  
  </h3>
+</div>
+
        
                    
                    
